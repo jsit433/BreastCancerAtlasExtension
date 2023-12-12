@@ -3,7 +3,8 @@ This extension interactively visualises an anatomical and statistical lymph node
 ![GUI_ss](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/33d0383b-2762-41a7-a089-06af7ab23619)
 
 ## Installation Instructions
-* Download the folder 'BreastCancerAtlasExtension' and then save this anywhere you like, but please save it somewhere you can access in a later step. 
+* Download the folder 'BreastCancerAtlasExtension' by selecting the green 'Code' button > Download ZIP. Unzip the folder and then save this anywhere you like, but please save it somewhere you can access in a later step.
+  ![image](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/809c4cd7-be36-4169-a1f9-a95cb085338b)
 * Download and install 3D Slicer version 5.2.2 (https://download.slicer.org/?version=5.2.2).
 * Start 3D Slicer.
 * Under the module selection tab labelled ‘Welcome to Slicer’ select Developer Tools > Extension Wizard.
