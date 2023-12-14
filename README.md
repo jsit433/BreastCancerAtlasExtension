@@ -11,9 +11,11 @@ This extension interactively visualises an anatomical and statistical lymph node
   ![image](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/c89af3ad-731e-4a80-bcab-c76c6e0d47a6)
 * Click 'Select Extension'.
   ![image](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/bd81e73d-cae5-4ef8-8518-f4eb1391aa92)
-* Locate the BreastCancerAtlasExtension folder from where you saved it earlier. Deselect ‘Enable developer mode’. If it asks you to install command line developer tools please do so.
+* Locate the unzipped BreastCancerAtlasExtension-master folder from where you saved it earlier. Ensure the folder you select contains a 'BreastCancerAtlas' folder (you may have to double click twice on 'BreastCancerAtlasExtension-master'). Deselect ‘Enable developer mode’. If it asks you to install command line developer tools please do so.
   ![image](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/2297765c-37c9-45e8-90e0-c884bf122cab)
 * After pressing 'Yes', close Slicer and then reopen it.
 * The module should load when Slicer is reopened.
   ![image](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/1351fc3a-5cbb-4378-98ac-dd7c3f224835)
-* You can read through the information and change visibility of different atlas components and the statistical analysis type as you prefer. 
+* If the information and options in the left control panel do not immediately appear, under the module selection tab labelled 'Welcome to Slicer' select Custom Modules > BreastCancerAtlas
+  ![image](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/01931a8a-f858-4dc0-957d-49ea85c46227)
+* You can read through the information and change visibility of different atlas components and the statistical analysis type as you prefer.
