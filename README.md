@@ -1,5 +1,10 @@
 # Breast Cancer Atlas Extension
-This extension interactively visualises an anatomical and statistical lymph node atlas of the breast developed using SPECT/CT data.
+This extension interactively visualises an anatomical and statistical lymph node atlas of the breast developed using SPECT/CT data. Development of the atlas has been published in *Cancer Imaging* and can be accessed at the following link: https://doi.org/10.1186/s40644-024-00738-z
+
+If you utilise this 3D atlas in your own work, please ensure you cite the article as follows:
+
+Situ, J., Buissink, P., Mu, A. et al. An interactive 3D atlas of sentinel lymph nodes in breast cancer developed using SPECT/CT. *Cancer Imaging* 24, 97 (2024).
+
 ![GUI_ss](https://github.com/jsit433/BreastCancerAtlasExtension/assets/80793526/33d0383b-2762-41a7-a089-06af7ab23619)
 
 ## Installation Instructions
