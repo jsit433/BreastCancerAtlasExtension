@@ -1,0 +1,66 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Breast Cancer Atlas
+message: >-
+  If you utilise this 3D atlas in your own work, please
+  ensure you cite the article as follows.
+type: software
+authors:
+  - given-names: Josephine
+    family-names: Situ
+  - given-names: Poppy
+    family-names: Buissink
+  - given-names: Annie
+    family-names: Mu
+  - given-names: David
+    name-particle: K. V.
+    family-names: Chung
+  - given-names: Rob
+    family-names: Finnegan
+  - given-names: Thiranja P. Babarenda
+    family-names: Gamage
+  - given-names: Tharanga
+    name-particle: D.
+    family-names: Jayathungage Don
+  - given-names: Cameron
+    family-names: Walker
+  - given-names: Hayley
+    name-particle: M.
+    family-names: Reynolds
+identifiers:
+  - type: doi
+    value: 10.1186/s40644-024-00738-z
+repository-code: 'https://github.com/jsit433/BreastCancerAtlasExtension'
+preferred-citation:
+  type: article
+  authors:
+  - given-names: Josephine
+    family-names: Situ
+  - given-names: Poppy
+    family-names: Buissink
+  - given-names: Annie
+    family-names: Mu
+  - given-names: David
+    name-particle: K. V.
+    family-names: Chung
+  - given-names: Rob
+    family-names: Finnegan
+  - given-names: Thiranja P. Babarenda
+    family-names: Gamage
+  - given-names: Tharanga
+    name-particle: D.
+    family-names: Jayathungage Don
+  - given-names: Cameron
+    family-names: Walker
+  - given-names: Hayley
+    name-particle: M.
+    family-names: Reynolds
+  doi: "10.1186/s40644-024-00738-z"
+  journal: "Cancer Imaging"
+  title: "An interactive 3D atlas of sentinel lymph nodes in breast cancer developed using SPECT/CT"
+  issue: 1
+  volume: 24
+  start: 97
+  year: 2024
